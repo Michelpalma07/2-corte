@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'pedir la edad y el saldo que tiene en bancolombia'
+5
+1
+10
+edad,saldo
+7
+0
+1
+25
+edad>=21 and saldo>=60000
+4
+1
+10
+'no entra'
+13
+4
+1
+7
+'entra'
+13
+1

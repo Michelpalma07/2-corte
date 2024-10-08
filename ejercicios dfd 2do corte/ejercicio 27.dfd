@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'digite su edad y el saldo para entrar a un parque infantil'
+5
+1
+12
+edad,entrada
+7
+0
+1
+27
+edad<=12 and entrada>=15000
+4
+1
+17
+'no puede entrar'
+13
+4
+1
+14
+'puede entrar'
+13
+1
